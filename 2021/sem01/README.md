@@ -1,4 +1,4 @@
-- Sem01.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-ds/iad-deep-learning/blob/master/2021/sem01/sem01.ipynb)
+- Sem01.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem01/sem01.ipynb)
 
 PS. Не забывайте делать копии
 
