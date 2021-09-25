@@ -10,5 +10,5 @@ PS. Не забывайте делать копии
 
 #### Дополнительные материалы:
 * A guide to convolution arithmetic for deep learning [paper](https://arxiv.org/abs/1603.07285), [github](https://github.com/vdumoulin/conv_arithmetic)
-* [Наиболее популярная статья про свертки](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
+* [Наиболее популярная научпоп объяснение сверток с визуализациями](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 * [Заглянуть в сверточные слои нейросети с OpenAI](https://microscope.openai.com/)
