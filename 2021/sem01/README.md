@@ -5,7 +5,7 @@ PS. Не забывайте делать копии
 
 #### Дополнительные материалы:
 
-* [PyTroch на простейшем примере с пояснениями](https://github.com/Kaixhin/grokking-pytorch)
+* [PyTorch на простейшем примере с пояснениями](https://github.com/Kaixhin/grokking-pytorch)
 * [Хорошая книга про pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 * [Использование pytorch на GPU](https://pytorch.org/docs/master/notes/cuda.html)
 * [Pytorch за 60 минут](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
