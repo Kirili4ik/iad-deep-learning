@@ -1,5 +1,6 @@
 - Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem03/sem03_task.ipynb)
-- _Семинарское решение с комментариями_:  TBD
+- _Семинарское решение с комментариями_:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem03/sem03_solved_with_comments.ipynb)
+
 
 PS. Не забывайте делать копии
 
