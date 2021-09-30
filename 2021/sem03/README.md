@@ -5,6 +5,5 @@
 PS. Не забывайте делать копии
 
 #### Дополнительные материалы:
-* TBD
 * [Наиболее популярное научпоп объяснение сверток с визуализациями](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 * [Заглянуть в сверточные слои нейросети с OpenAI](https://microscope.openai.com/)
