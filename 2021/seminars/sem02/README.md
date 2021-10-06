@@ -2,9 +2,9 @@
       <img align="center" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
   </a>
 
-- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem02/sem02_task.ipynb)
-- Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem02/sem02_solution.ipynb)
-- _Семинарское решение с комментариями_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/sem02/sem02_solved_with_comments.ipynb)
+- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem02/sem02_task.ipynb)
+- Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem02/sem02_solution.ipynb)
+- _Семинарское решение с комментариями_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem02/sem02_solved_with_comments.ipynb)
 
 PS. Не забывайте делать копии
 
