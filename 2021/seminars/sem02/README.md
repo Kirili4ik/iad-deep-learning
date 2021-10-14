@@ -1,4 +1,4 @@
-### Свертки и Сверточные нейрости
+### Свертки и Сверточные нейросети
 
 - Шпаргалка по теории: <a href="https://kirili4ik.notion.site/2-dd81565d22144057a8866e918d72ce12">
       <img align="center" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
