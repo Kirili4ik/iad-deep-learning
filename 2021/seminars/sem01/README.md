@@ -1,6 +1,6 @@
 - Sem01.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem01/sem01.ipynb)
 
-PS. Не забывайте делать копии
+- Видео семинара [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4_rmNMmMDIU&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei)
 
 
 #### Дополнительные материалы:
