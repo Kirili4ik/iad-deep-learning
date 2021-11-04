@@ -1,8 +1,8 @@
 ### Мотивация, PyTorch и Моя первая нейросеть
 
-- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem01/sem01.ipynb)
+- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem01/sem01.ipynb)
 
-- _Семинарское решение с комментариями_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem01/sem01_solved_with_comments.ipynb) (картинки есть на github)
+- _Семинарское решение с комментариями_ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem01/sem01_solved_with_comments.ipynb) (картинки есть на github)
 
 - Видео семинара [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=4_rmNMmMDIU&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei)
 
