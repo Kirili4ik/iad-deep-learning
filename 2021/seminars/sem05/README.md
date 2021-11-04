@@ -4,8 +4,8 @@
       <img align="center" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
   </a>
 
-- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem05/sem05_task.ipynb)
-- Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/premium/2021/seminars/sem05/sem05_solution.ipynb)
+- Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem05/sem05_task.ipynb)
+- Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem05/sem05_solution.ipynb)
 - Видео семинара (TBD)
 
 
