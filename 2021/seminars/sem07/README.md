@@ -7,10 +7,6 @@
 
 
 ##### Дополнительные материалы:
-> [Красивый блогпост про checkerboard effect на distill.pub](https://distill.pub/2016/deconv-checkerboard/)
->
-> [Блогпост про R-CNN (и следующие) на habr](https://habr.com/ru/company/jetinfosystems/blog/498294/)
-
 > Полезный [общий взгляд](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) на Word2Vec
 >
 > [Первые работы с Word2Vec](https://arxiv.org/pdf/1301.3781.pdf)
