@@ -2,7 +2,7 @@
 
 - Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem06/sem_06.ipynb)
 - Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem06/sem_06_solved.ipynb)
-- Видео семинара (TBD)
+- Видео семинара [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Gu0BfWLLvy8&list=PLEwK9wdS5g0qa3PIhR6HBDJD_QnrfP8Ei&index=41)
 
 О свертках с ядром 1х1:
 > 1x1 свертка просто уменьшает кол-во каналов (глубину). Колбаска(вектор) 1x1xCH_in переведет в 1x1x1, но мы таких возьмем CH_out штук -> получим из входа NxMxCH_in выход NxMxCh_out.
