@@ -2,7 +2,7 @@
 
 - Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem07/sem07_task.ipynb)
 - Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem07/sem07_solution.ipynb)
-- Видео семинара (TBD)
+- Видео семинара [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jWU41B46BLc)
 
 
 
