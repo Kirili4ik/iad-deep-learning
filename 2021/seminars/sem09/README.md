@@ -11,6 +11,6 @@
 >
 > [LSTM docs](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
 > 
-> Небезызвестный блогпост [Understanding LSTMs] (https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+> Небезызвестный блогпост [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 >
 > [Huggingface](https://huggingface.co/) (почему нет) 
