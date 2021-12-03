@@ -2,7 +2,8 @@
 - Задание [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem09/sem09_task.ipynb)
 - Чистое решение [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem09/sem09_solution.ipynb)
 - Решение с семинара (с хорошей точностью) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirili4ik/iad-deep-learning/blob/master/2021/seminars/sem09/sem09_sem_sol.ipynb)
-- Видео семинара TBD
+- Видео семинара [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iF4U10mp1bQ)
+
 
 
 
