@@ -7,5 +7,5 @@
 > [Huggingface](https://huggingface.co/)
 > 
 > [BERT explained @ medium](https://medium.com/@samia.khalid/bert-explained-a-complete-guide-with-theory-and-tutorial-3ac9ebc8fa7c)
-> f
+> 
 > [Transformer Zoo @ my notion](https://kirili4ik.notion.site/Transformer-Zoo-BERT-5421b8d2fe134e23b981f9935f97f368)
